@@ -1,0 +1,13 @@
+D:\SCGT\H1\H1\bin\Debug\H1.exe.config
+D:\SCGT\H1\H1\obj\Debug\H1.vbprojResolveAssemblyReference.cache
+D:\SCGT\H1\H1\obj\Debug\H1.Form1.resources
+D:\SCGT\H1\H1\obj\Debug\H1.Form2.resources
+D:\SCGT\H1\H1\obj\Debug\H1.Form3.resources
+D:\SCGT\H1\H1\obj\Debug\H1.Resources.resources
+D:\SCGT\H1\H1\obj\Debug\H1.vbproj.GenerateResource.Cache
+D:\SCGT\H1\H1\bin\Debug\H1.exe
+D:\SCGT\H1\H1\bin\Debug\H1.pdb
+D:\SCGT\H1\H1\bin\Debug\H1.xml
+D:\SCGT\H1\H1\obj\Debug\H1.exe
+D:\SCGT\H1\H1\obj\Debug\H1.xml
+D:\SCGT\H1\H1\obj\Debug\H1.pdb
